@@ -232,6 +232,7 @@
     "App:PickupAvailability:IncludeCrossBorderStores",
     "App:PickupAvailability:IncludeOrganizationUnitsWithoutStock",
     "App:Pos:DisplayExpectedAmountOnCashJournal",
+    "App:PreferredFieldsToWarnAbout",
     "App:Product:HideRelations",
     "App:Product:OrganizationUnitBackInStock",
     "App:Product:ShowPrintPriceLabel",
