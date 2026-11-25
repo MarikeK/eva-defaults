@@ -289,6 +289,7 @@
     "App:ShipFromStore:SupportMultipleShipments",
     "App:ShopLocation:Radius",
     "App:ShopLocation:Restricted",
+    "App:ShowDiscountLayerNameOnCoupon",
     "App:SmartSuggestions:ConfirmationScanRequired",
     "App:SmartSuggestions:Enabled",
     "App:SoldBy:RoleIDs",
